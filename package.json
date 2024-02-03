@@ -19,7 +19,7 @@
     "prettier": "^3.2.4",
     "react": "^18",
     "react-dom": "^18",
-    "vercel": "^32.3.0"
+    "vercel": "^33.4.1"
   },
   "devDependencies": {
     "@types/node": "^20",
